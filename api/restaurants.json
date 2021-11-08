@@ -1,0 +1,235 @@
+
+[
+    {
+        "id": "koto-japanese-restaurant",
+    "name": "Koto Japanese Restaurant",
+    "address": "792 Shelburne Rd, South Burlington, VT 05403",
+    "phone number": "(802)660-8976",
+    "hours": "Monday 11:30AM–2:30PM 5–10PM
+    
+    Tuesday
+    11:30AM–2:30PM
+    5–10PM
+    
+    Wednesday
+    11:30AM–2:30PM
+    5–10PM
+
+    Thursday
+    11:30AM–2:30PM
+    5–10PM
+    
+    Friday
+    11:30AM–2:30PM
+    4:30–10:30PM
+    
+    Saturday
+    11:30AM–10:30PM
+    
+    Sunday
+    12–9:30PM",
+
+    "notes": "Bustling option for flaming hibachi-grill theatrics, signature sushi rolls & cocktails.",
+    "latitude": "44.44507278686303",
+    "longitude": "-73.20901771009525"
+    },
+
+    {
+        "id": "smokeys-low-n-slow",
+    "name": "Smokey's Low n' Slow",
+    "address": "7 Fayette Dr, South Burlington, VT 05403",
+    "phone number": "(802)497-3819",
+    "hours": "Temporarily closed",
+    "notes": "Outstanding service, great beer selection, good food and tasty sauces.",
+    "latitude": "44.43828610718439",
+    "longitude": "-73.21165407638463"    
+    },
+
+    {
+        "id": "smokeys-low-n-slow",
+        "name": "HANA Japanese Restaurant",
+        "address": "150 Dorset St #340, South Burlington, VT 05403",
+        "phone number": "+18024483525",
+        "hours": 
+        "Monday
+        11AM–10PM
+        
+        Tuesday
+        11AM–10PM
+        
+        Wednesday
+        11AM–10PM
+        
+        Thursday
+        11AM–10PM
+        
+        Friday
+        11AM–10PM
+        
+        Saturday
+        11AM–10PM
+        
+        Sunday
+        12–9:30PM",
+
+        "notes": "Inventive sushi rolls, teriyaki, hibachi & other Japanese dishes in a low-key space with a full bar.",
+        "latitude": "44.46517120779917",
+        "longitude": "-73.17987884969386"
+    },
+
+    {
+        "id": "chicken-charlies-rotisserie-grill-bbq",
+        "name": "Chicken Charlie's Rotisserie Grill & BBQ",
+        "address": "1160 Williston Rd, South Burlington, VT 05403",
+        "phone number": "(802)862-1211",
+        "hours": 
+        "Monday
+        11AM–10PM
+        
+        Tuesday
+        11AM–10PM
+        
+        Wednesday
+        11AM–10PM
+        
+        Thursday
+        11AM–10PM
+        
+        Friday
+        11AM–10PM
+        
+        Saturday
+        11AM–10PM
+        
+        Sunday
+        11AM–10PM",
+
+        "notes": "Popular quick-serve restaurant specializing in rotisserie chicken, burgers & ribs.",
+        "latitude": "44.46869079581882", 
+        "longitude": "-73.17766339235001"
+    },
+
+    {
+        "id": "the-fish-chip",
+        "name": "THE FISH & CHIP",
+        "address": "1210 Williston Rd, South Burlington, VT 05403",
+        "phone number": "(802)399-2901",
+        "hours": 
+        "Monday
+        Closed
+        
+        Tuesday
+        Closed
+        
+        Wednesday
+        4–8:30PM
+        
+        Thursday
+        11:30AM–9PM
+        
+        Friday
+        11:30AM–9PM
+        
+        Saturday
+        11:30AM–9PM
+        
+        Sunday
+        4–8:30PM",
+        "notes": " Great service, great food and great price.",
+        "latitude": "44.46839175198684",
+        "longitude": "-73.1756223509248" 
+    },
+
+    {
+        "id": "gaku-rame",
+        "name": "Gaku Ramen",
+        "address": "144 Church St, Burlington, VT 05401",
+        "phone number": "(802)497-3050",
+        "hours": 
+        "Monday
+        11AM–9PM
+        
+        Tuesday
+        11AM–9PM
+        
+        Wednesday
+        11AM–9PM
+        
+        Thursday
+        11AM–9PM
+        
+        Friday
+        11AM–9PM
+        
+        Saturday
+        11AM–9PM
+        
+        Sunday
+        11AM–9PM",
+        "notes": "Casual, trendy restaurant focusing on Japanese-style ramen noodle soups, rice bowls & small plates.",
+        "latitude": "44.476613958041696",
+        "longitude": "-73.21232574706858"
+    },
+
+    {
+        "id": "bistro-de-margot",
+        "name": "Bistro de Margot",
+        "address": "126 College St, Burlington, VT 05401",
+        "phone number": "(802)863-5200",
+        "hours": 
+        "Monday
+        Closed
+        
+        Tuesday
+        5–8PM
+        
+        Wednesday
+        5–8PM
+        
+        Thursday
+        5–8PM
+        
+        Friday
+        5–8PM
+        
+        Saturday
+        5–8PM
+        
+        Sunday
+        Closed",
+        "notes": "Stylish restaurant offering modern takes on classic French cuisine, as well as a full bar.",
+        "latitude": "44.47748333306392",
+        "longitude": "-73.21491468244646"
+    },
+
+    {
+        "id": "shelburne-tap-house",
+        "name": "Shelburne Tap House",
+        "address": "2989 Shelburne Rd, Shelburne, VT 05482",
+        "phone number": "(802)985-4040",
+        "hours": 
+        "Monday
+        12–8PM
+        
+        Tuesday
+        12–8PM
+        
+        Wednesday
+        12–8PM
+        
+        Thursday
+        12–9PM
+        
+        Friday
+        12–9PM
+        
+        Saturday
+        12–8PM
+        
+        Sunday
+        Closed",
+        "notes": "A wonderful restaurant with friendly staff and yummy food.",
+        "latitude": "44.412661231515756",
+        "longitude": "-73.21375609330627"
+    }
+]
