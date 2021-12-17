@@ -1,10 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Homepage from "./components/homepage";
+import Restaurant from "./components/restaurant";
+//importing react-router
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-function App() {
+export default function App() {
   return (
-    <h1>Yelpington</h1>
+    <>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Homepage />} />
+          <Route path="/restaurant/:restaurantId" element={<Restaurant />} />
+        </Routes>
+      </BrowserRouter>
+    </>
   );
 }
-
-export default App;
